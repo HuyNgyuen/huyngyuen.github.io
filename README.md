@@ -10,11 +10,11 @@ Trang web bao gồm các phần: Thông tin cá nhân, Mục tiêu nghề nghi�
 
 ## Cách cài đặt và chạy project
 
-### ### \u1. Yêu cầu
+### 1. Yêu cầu
 - Trình duyệt hỗ trợ HTML5 (Chrome, Firefox, Edge...)
 - Máy tính hoặc server local để chạy file HTML.
 
-### ### \u2. Cài đặt
+### 2. Cài đặt
 
 1. Clone hoặc tải về source code.
 
