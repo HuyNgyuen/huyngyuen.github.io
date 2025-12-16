@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-🔗 Dự án này là một trang web giới thiệu CV cá nhân của **Nguyễn Đỗ Huy** - Back-End Developer.
+🔗 Dự án này là một trang web giới thiệu CV cá nhân của **Nguyễn Đỗ Huy** - FRESHER SOFTWARE ENGINEER.
 
 Trang web bao gồm các phần: Thông tin cá nhân, Mục tiêu nghề nghiệp, Kinh nghiệm, Dự án, Học vấn, Kỹ năng và Sở thích.
 
